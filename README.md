@@ -1,9 +1,3 @@
-# TimeSeriesForecasting
-
-Here’s a GitHub README template based on the content from your document:
-
----
-
 # Electricity Demand Time Series Forecasting
 
 ## Project Overview
